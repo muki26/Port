@@ -13,7 +13,7 @@ projectOneElement.setAttribute('href',projectOne);
 
 var projectTwo;
 
-projectTwo = "D:/fabevy%20technology/practise/8-portfolio_orginal-done/2-Digital_clock-inprogress/index.html";
+projectTwo = "2-Digital_clock-inprogress/index.html";
 
 projectTwoElement = document.getElementById('project-two');
 
