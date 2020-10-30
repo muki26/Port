@@ -1,0 +1,249 @@
+
+body{
+    position:relative;
+}
+#header{
+    background-color: #000000;
+    font-family: cursive;
+    max-width:100%;
+    font-size: 20px;
+  
+}
+.justify-content-between.fixed-top{
+    background-color: black;
+}
+#header h1{
+    color: #FF305B;
+}
+#header .nav-link{
+    color:  #F8FDFF;
+ }
+ /*hover*/
+ 
+ #header a:hover{
+     color:red;
+ }
+ #home{
+    min-height: 580px;
+    background-image: url('../imageS/2.png');
+    height: 100%;
+    width: 100%;
+    padding: 100px;
+ }
+ #home .display-4{
+      font-size: 50px;
+      color: #FF305B;
+      font-family: serif;
+ }
+#home .jumbotron{
+     border-radius: 250px;
+     background: none;      
+} 
+#home .display-5{
+    color:teal;
+    font-family: cursive;
+    font-size: 60px;
+}
+
+#home .carousel-inner{
+    font-family: cursive;
+    font-size: 50px;
+    color:black
+}
+#home .btn-primary.btn-lg{
+    position: absolute;
+    border-color: #FF305B;
+    color: wheat;
+    ;background-color: #FF305B;
+    border-radius:40PX;
+    top:520px;
+    right:550px;
+    height: 60px;
+    width: 20%;
+}
+#home a:hover{
+color: black;
+  }
+
+
+/*about*/
+#about .col-8{
+    padding-top: 40px;
+    padding-left: 300px;
+    font-family: cursive;
+    font-style: italic;
+    color: wheat;
+}
+   #about .col-3{
+    padding-top: 50px;
+   
+   }
+   #about .text-center{
+   color: #FF305B;
+   font-family: serif;
+   font-size: 45px;
+   font-style: italic;
+   }
+   #about .jumbotron{
+       background-color: black;
+   }
+  #about .col-3 .image{
+       border-radius:15PX;
+       position: absolute;
+       top:30px;
+       width: 100%;
+       height: 80%;
+   }
+   
+
+#about .btn-primary.btn-lg{
+    position: absolute;
+    border-color: #FF305B;
+    color: wheat;
+    ;background-color: #FF305B;
+    border-radius:40PX;
+    top:460px;
+    right:460px;
+    height: 60px;
+    width: 30%;
+  
+}
+.col-12 .card-img-top{
+    width: fit-content;
+    
+}
+/* education */
+#edu{
+    background-color: yellow;
+    padding-top: 100px;
+    padding:300px;
+    position: relative;
+}
+#edu  .heading{
+    position: absolute;
+    color: #FF305B;
+    text-align: center;
+    right: 300px;
+    top: -240px;
+    font-size: 40px;
+}
+
+#edu .tenth{
+position: absolute;
+width: 30%;
+float: right;
+right:-200px;
+top: -180px;
+}
+
+
+#edu .card-body1{
+    position: absolute;
+  top: -160px;
+  right: 40px;
+}
+#edu .twelth{
+    position: absolute;
+    width: 30%;
+    float: right;
+    left:-250px;
+    top: 10px;
+    }
+#edu .card-body2{
+    
+    position: absolute;
+    top: 3px;
+    right: 400px;
+}
+#edu .eng{
+   position: absolute;
+   width: 30%;
+   top: 200px;
+   height: 80%;
+   right: -200px;
+    }
+#edu .card-body3{
+   position: relative;
+    top: 190px;
+    right: -130px;
+}
+/*projects*/
+
+#projects{
+    padding:140px;
+    background-color: greenyellow;
+}
+#projects img{
+    width: 100%;
+    height: 220px;
+}
+
+#projects a{
+    color: #FF305B;
+    font-size: x-large;
+    position: absolute;
+    top: 40px;
+    width: 100%;
+    margin: 0 auto;
+    height:60px;
+    background-color: black;
+    border-color: black;
+    border-radius: 22px;
+    top:440px;
+    
+}
+#projects a:hover{
+    color: white;
+    text-decoration: none;
+    
+}
+#projects .pro{
+    color:black;
+    position: absolute;
+    top:-60px;
+    left:400px
+}
+/*CONTACT-ME  */
+#contact-me{
+    padding:20px;
+    padding-bottom: 50px;
+}
+#contact-me .form-group
+{
+    width: 200%; 
+    padding-top:30px;
+
+}
+#formGroupExampleInput {
+    font-size: 25px;
+}
+#exampleInputEmail1{
+    font-size: 25px;
+}
+#formGroupExampleInput2{
+    font-size: 25px;
+}
+#exampleFormControlTextarea1{
+    font-size: 25px;
+}
+ .btn-primary {
+  position: absolute;
+  background-color: #63c9b4;
+  border-color:#1ABC9C;
+  width: 10%;
+  height:40px;
+  border-radius: 25px;
+  bottom: 60px;
+}
+
+  #footer-bottom {
+    background-color: #1A252F;
+    position: relative;
+  
+   
+ 
+}
+#footer-bottom .text-center{
+    color: #FFFFFF;
+}
+
