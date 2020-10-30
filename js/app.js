@@ -2,7 +2,7 @@
 
 var projectOne;
 
-projectOne = "D:/fabevy%20technology/practise/8-portfolio_orginal-done/1-RandomUrl-inprogress/index.html";
+projectOne = "1-RandomUrl-inprogress/index.html";
 console.log(projectOne);
 
 var projectOneElement = document.getElementById('project-one');
@@ -22,7 +22,7 @@ projectTwoElement.setAttribute('href',projectTwo);
 
 var projectThree;
 
-projectThree = "file:///D:/fabevy%20technology/practise/8-portfolio_orginal-done/3-Tips_sharing-calculator-done/index.html";
+projectThree = "3-Tips_sharing-calculator-done/index.html";
 
 projectThreeElement = document.getElementById('project-three');
 
